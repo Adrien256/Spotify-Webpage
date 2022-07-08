@@ -6,7 +6,7 @@
 *
 * Name: Adrien Low Student ID: 137763207 Date: April 8th, 2022
 *
-* Angular App (Deployed) Link: _____________________________________________________
+* Angular App (Deployed) Link: https://resonant-bienenstitch-0c1ce5.netlify.app
 *
 * User API (Heroku) Link: https://ancient-retreat-68858.herokuapp.com/api/user
 *
